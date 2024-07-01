@@ -14,6 +14,7 @@ cafes.map(cafe => {
     // avec à l'intérieur de chaque <li> son nom et son url
     element.text = cafe.name;
     element.href = cafe.url;
+    element.target = '_blank';
 
     // on ajoute dans le html
     listItem.appendChild(element); //listItem = <li>
