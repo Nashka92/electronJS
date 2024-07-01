@@ -1,0 +1,16 @@
+{
+  "name": "joyous-voyage-promise-f4old",
+  "productName": "joyous-voyage-promise-f4old",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "User1",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
