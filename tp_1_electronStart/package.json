@@ -1,0 +1,15 @@
+{
+  "name": "exo_2_electronstart",
+  "version": "1.0.0",
+  "description": "exo_2_electronstart",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "anna",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
